@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 25, 2017, 12:00:59 AM
+    Author     : USER
+*/
+
+ul li{
+    list-style-type: none;
+    display: inline;
+     font-size: 24px;
+     background: #ef5350;
+     padding:15px;
+     border-radius: 15px;
+
+}
+
+#cabecera{
+   text-align: center;
+   font-family: Calibri;
+   color: #b71c1c;
+   font-size: 20px;
+}
+#menu{
+     text-align: center;
+     
+}
+
+#cuerpo{
+    text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+    font-size: 20px
+}
+#pie{
+    text-align: center;
+    background: #b71c1c;
+    font-size: 20px;
+    color: black;
+}
+form{
+    width: 800px;
+    margin: 1em;
+    border-radius: 35px 35px 35px 35px;
+    border: 2px;
+    padding: 1em;
+    background: #7CE2EE;
+}
+
+#formulario h1 { text-align: center; 
+}
+
+
+label{
+    display: inline-block;
+    width: 100px;
+    text-align: left;   
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 0.5em
+}
+
+input,textarea{
+   width: 200px;
+   font: 1em cursive;
+   border: 1px solid black;
+}
+input:focus, textarea:focus{
+    border-color: red;
+     background-color: red;
+} 
+textarea{
+    vertical-align: middle;
+}
+
+.boton{
+  padding-right:500px;  
+}
+button{
+    font-size: 1em;
+  font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color:#3C424A;
+}
+
+a:hover{
+    font-size: 28px;
+    color:  red;
+}
+
