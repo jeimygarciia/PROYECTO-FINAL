@@ -40,6 +40,7 @@ ul li{
     background: #b71c1c;
     font-size: 20px;
     color: black;
+    float:  end;   
 }
 form{
     width: 800px;
@@ -93,3 +94,29 @@ a:hover{
     color:  red;
 }
 
+#conocenos {
+    display: block;
+     float: left;
+     font-size: 24px;
+     padding-top: 100px;
+     padding: 15px;
+     background: #ef5350;
+     border-radius: 15px;
+
+}
+
+#conocenos a{
+    text-decoration: none;
+    color:#3C424A;
+    float: left;
+}
+
+#conocenos a:hover{
+    font-size: 28px;
+    color:  red;
+}
+
+#conocemos p{
+    text-align: right;
+    padding-right: 100px;
+}
