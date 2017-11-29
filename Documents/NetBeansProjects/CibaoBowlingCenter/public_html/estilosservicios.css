@@ -4,9 +4,10 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : Nov 25, 2017, 12:00:59 AM
+    Created on : Nov 28, 2017, 11:11:43 PM
     Author     : USER
 */
+
 
 ul li{
     list-style-type: none;
@@ -27,14 +28,8 @@ ul li{
 #menu{
      text-align: center;
      
-}
+} 
 
-#cuerpo{
-    text-align: center;
-    font-family: Arial;
-    font-size: 20px;
-    font-size: 20px
-}
 #pie{
     text-align: center;
     background: #b71c1c;
@@ -42,51 +37,7 @@ ul li{
     color: black;
     float:  end;   
 }
-form{
-    width: 800px;
-    margin: 0 auto;
-    border-radius: 2px 2px 2px 2px;
-    border: 2px;
-    padding: 1em;
-    background: #b71c1c; 
-}
 
-#formulario h1 { text-align: center; 
-}
-
-
-
-
-label{
-    display:  inline-block;
-    width: 100px;
-    text-align: left;   
-    font-weight: bold;
-    font-size: 1.5em;
-    margin: 1em;
-}
-
-input,textarea{
-   width: 200px;
-   font: 1em cursive;
-   border: 2px solid black;
-}
-input:focus, textarea:focus{
-    border-color: red;
-     background-color: red;
-} 
-textarea{
-    vertical-align: middle;
-}
-
-.boton{
-  padding-right:500px;  
-  padding-top: 50px;
-}
-button{
-    font-size: 1em;
-  font-weight: bold;
-}
 a{
     text-decoration: none;
     color:#3C424A;
@@ -114,16 +65,13 @@ a:hover{
     float: left;
 }
 
-#conocenos a:hover{
-    font-size: 28px;
-    color:  red;
-}
+
 
 #conocemos p{
     text-align: right;
     float: right;
 }
-
-.row {
- padding-top: 100px;
+.row{
+    text-align: center;
+    margin: 1em;
 }
