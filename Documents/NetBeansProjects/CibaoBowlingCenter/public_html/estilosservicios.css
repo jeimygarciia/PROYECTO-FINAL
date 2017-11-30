@@ -39,13 +39,14 @@ ul li{
 }
 
 a{
-    text-decoration: none;
+   text-decoration:none;
     color:#3C424A;
 }
 
 a:hover{
     font-size: 28px;
     color:  red;
+    text-decoration:none;
 }
 
 #conocenos {
@@ -60,7 +61,7 @@ a:hover{
 }
 
 #conocenos a{
-    text-decoration: none;
+    text-decoration:none;
     color:#3C424A;
     float: left;
 }

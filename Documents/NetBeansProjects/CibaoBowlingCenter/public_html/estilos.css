@@ -54,9 +54,6 @@ form{
 #formulario h1 { text-align: center; 
 }
 
-
-
-
 label{
     display:  inline-block;
     width: 100px;
@@ -97,33 +94,12 @@ a:hover{
     color:  red;
 }
 
-#conocenos {
-    display: block;
-     float: left;
-     font-size: 24px;
-     padding-top: 100px;
-     padding: 15px;
-     background: #ef5350;
-     border-radius: 15px;
-
+#contenido{
+    text-align: center;
+    font-size: 40px;
 }
 
-#conocenos a{
-    text-decoration: none;
-    color:#3C424A;
-    float: left;
-}
-
-#conocenos a:hover{
-    font-size: 28px;
-    color:  red;
-}
-
-#conocemos p{
-    text-align: right;
-    float: right;
-}
-
-.row {
- padding-top: 100px;
+#contenido h2{
+    font-size: 50px;
+    font-family:  Arial;
 }
